@@ -1,1 +1,1 @@
-claims-app is a web app that help peaple claims their work incidents.
+claims-app is a web app that help people claims their work incidents.
